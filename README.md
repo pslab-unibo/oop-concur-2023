@@ -1,2 +1,7 @@
-# oop-concur-2023
-Repo dei sorgenti useti nel seminario "Introduzione alla Programmazione Multithreaded in Java" - Corso OOP - CdL Ingegneria e Scienze Informatiche, Università di Bologna, Campus di Cesena.
+# Introduzione alla Programmazione Multithreaded in Java - OOP ISI LT a.a. 2023-2024
+
+Repo sorgenti seminario "Introduzione alla Programmazione Multithread in Java" 
+
+* Corso di Programmazione Orientata agli Oggetti - a.a. 2023-2024
+* CdL Ingegneria e Scienze Informatiche, Laurea Triennale
+* Università di Bologna, Campus di Cesena.
